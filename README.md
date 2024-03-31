@@ -4,14 +4,14 @@
 Dataset Import and Initial Analysis
 
 1. Importing the Dataset -
-The initial step involved importing the dataset provided in excel file.
+The initial step involved importing the dataset provided in Excel file.
 
 2. Exploratory Data Analysis (EDA) - 
 Performed exploratory data analysis to understand the data better.
 Utilized Pandas functions such as head, tail, and shape for initial insights.
 
 3. Handling Missing Values - 
-Identified and addressed missing values using the fillna function.
+Identified and addressed missing values using the fill NA function.
 
 4. Dropping Unnecessary Columns -
 Removed columns deemed less important for analysis.
@@ -23,7 +23,7 @@ Investigated the correlation between features using statistical methods.
 Visualized feature correlations using a heatmap for better understanding.
 
 2. Feature Selection-
-Chose features with high correlation with the target output for model building.
+Choose features with a high correlation with the target output for model building.
 
 Outlier Handling and Multicollinearity
 
@@ -37,7 +37,7 @@ Considered the impact of outliers on the dataset and decided to handle them usin
 Examined multicollinearity issues within the dataset.
 
 4. Feature Removal to Address Multicollinearity-
-Dropped features contributing to multicollinearity.
+Dropped features contribute to multicollinearity.
 
 Model Training and Evaluation
 
@@ -53,6 +53,9 @@ Assessed model performance using mean squared error and R-squared (r2) score.
 Deployment
 1. Model Deployment-
 Deployed the trained model using Streamlit for practical use.
+
+![Result](https://github.com/psahu1110/Sentiment-Analysis-on-Financial-Statements/assets/114385902/3b1cbd79-200a-4d4f-b85c-a4b96fc79823)
+
 
 # Conclusion
 
